@@ -1,3 +1,5 @@
 Un contenu dans main
 
 Un contenu dans la feature a qui a une modif dans la branche b
+
+on ajoute quelque chose dans a pour avoir 2 commits
