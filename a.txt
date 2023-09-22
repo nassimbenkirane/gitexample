@@ -1,1 +1,5 @@
 Un contenu dans main
+
+Un contenu dans la feature a
+
+on ajoute quelque chose dans a pour avoir 2 commits
